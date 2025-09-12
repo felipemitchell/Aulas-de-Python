@@ -1,0 +1,53 @@
+'''numero1 = 5
+numero2 = 2
+
+soma = numero1 + numero2
+subtracao = numero1 - numero2
+multiplicacao = numero1 * numero2
+divisao = numero1 / numero2
+divisaoInteira = numero1 // numero2
+modulo = numero1 % numero2
+exponenciacao = numero1 ** numero2
+
+print(soma)
+print(subtracao)
+print(multiplicacao)
+print(divisao)
+print(divisaoInteira)
+print(modulo)
+print(exponenciacao)'''
+
+'''numero1 = 5
+numero1 += 5
+numero1 -= 3
+print(numero1)'''
+
+'''a = 6
+b = 8
+c = 3
+
+soma = a + b 
+if soma > 10:
+    print("Soma maior ou igual a 10")
+else:
+    print("Soma não é maior que 10")'''
+    
+'''print("Qual seu nome?: ")  
+nome = input()
+print("Qual sua idade? ")
+idade = input()
+print("Seu nome é: ", nome)
+print("Sua idade é: ", idade)'''
+
+'''soma1 = 7 + 8
+soma2 = 10 + 5
+
+if soma1 == soma2:
+    print("Os resultados são iguais")
+else:
+    print("Os resultados são diferentes")'''
+    
+a = 5
+b = 10
+print((a > 0) and (b !=0))
+print((a > 0) and (b==0))
