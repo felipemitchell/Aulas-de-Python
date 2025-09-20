@@ -1,0 +1,6 @@
+Ctrl+Play
+
+Somos uma escola de programação e robótica.
+Acreditamos que, em um mundo movido pela tecnologia,
+é importante que nossos jovens compreendam essas inovações 
+e mais que isso, contribuam com a produção dessas tecnologias.
